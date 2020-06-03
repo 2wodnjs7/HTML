@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body {
+	font-family: '맑은 고딕', '굴림', gulim;
+	font-size: 20px;
+}
+
+h3 {
+	font-family: 'Nanum Pen Script', cursive;
+}
+h1, h2 {
+	color: red;
+}
